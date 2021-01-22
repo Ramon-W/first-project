@@ -2,5 +2,13 @@ body {
   background-color: powderblue;
 }
 table, th, td {
-border: 1px solid black;
+  border: 1px solid black;
+}
+h1 {
+  text-align: center;
+}
+
+h1, p, th, td {
+  text-align: center;
+  font-family: Times New Roman;
 }
