@@ -1,9 +1,18 @@
 body {
   background-color: powderblue;
 }
+
+table {
+  width: 50%;
+}
+
+img {
+}
+
 table, th, td {
   border: 1px solid black;
 }
+
 h1 {
   text-align: center;
 }
