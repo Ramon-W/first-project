@@ -12,6 +12,11 @@ table, th, td {
   border: 1px solid grey;
 }
 
+th {
+  background-color: black;
+  color: white;
+}
+
 .book {
   width: 40px;
   height: 50px;
