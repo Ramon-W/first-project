@@ -1,10 +1,10 @@
 body {
   background-image: url("moroccan-flower.png");
-  background-attachment: scroll;
 }
 
 table {
   width: 50%;
+  background-image: url("simple-faded-colorful-wallpaper-preview.jpg");
 }
 
 table, tr {
