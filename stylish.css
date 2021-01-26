@@ -1,5 +1,6 @@
 body {
   background-image: url("moroccan-flower.png");
+  background-attachment: fixed;
 }
 
 table {
