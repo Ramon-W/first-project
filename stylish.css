@@ -9,7 +9,7 @@ table {
 }
 
 table, th, td {
-  border: 1px solid grey;
+  border: 1px solid purple;
 }
 
 th {
@@ -24,4 +24,8 @@ th {
 
 h1 {
   text-align: center;
+}
+
+th {
+  text-align: left;
 }
