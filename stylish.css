@@ -19,6 +19,11 @@ th {
   height: 50px;
 }
 
+#icon {
+  width: 25px;
+  height: 25px;
+}
+
 h1 {
   text-align: center;
 }
